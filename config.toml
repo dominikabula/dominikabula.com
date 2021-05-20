@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://domibula.com"
 languageCode = "en-US"
 title = "Dominika Bula"
 theme = "hugo-split-theme"
