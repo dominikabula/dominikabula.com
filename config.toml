@@ -42,6 +42,9 @@ copyright = "&copy;2021 Dominika Bula"
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
 
+  [params.custom.css]
+    enable = true
+
   # Links
   #
   # Links List #1

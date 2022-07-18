@@ -17,3 +17,20 @@ See more of my work at:
 * At Women in Tech I shared some of my career journey story along with advice on how to [organize multiple development teams](https://www.youtube.com/watch?v=0bmwToFuKGI_).
 
 [Follow me on Twitter @domibula](https://twitter.com/domibula)
+{{< rawhtml >}}
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf828c0f-abbb-4f51-9a05-1e7bb8df21a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="548e4f42-437e-44bf-8778-ad136789b3a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b46c0d15-a58d-4db9-aaf3-9db30eb9b3d4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8320a665-4520-47bb-97a7-5f0bbf3b0752" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a57e3fa9-b84d-4cd6-8855-1bc76817905e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b44b1127-93a1-410a-b40a-45b63e6b982e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5cf86ec4-d780-4048-b809-25d3275989e6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6220199-5e65-4d40-8e61-797267bc876f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+{{< /rawhtml >}}
