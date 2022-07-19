@@ -1,3 +1,11 @@
-#badge-name {
-    color: green !important;
+html {
+    background-color: #FFFFFF;
+}
+
+body.page-template-page-fullsingle-split {
+    background-color: #FFFFFF;
+}  
+
+.split-intro .tagline {
+    color: #848d96;
 }
