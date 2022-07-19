@@ -1,11 +1,11 @@
 html {
-    background-color: #FFFFFF;
+    background-color: #FFFFFF!important;
 }
 
 body.page-template-page-fullsingle-split {
-    background-color: #FFFFFF;
+    background-color: #FFFFFF!important;
 }  
 
 .split-intro .tagline {
-    color: #848d96;
+    color: #848d96!important;
 }
