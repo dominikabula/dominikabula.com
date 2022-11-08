@@ -3,9 +3,20 @@ title = "Dominika Bula"
 tagline = "Agile. Open. Leader."
 +++
 
-I'm a Scrum Master and PM Institute Certified #Agile Practitioner.  In addition to my work at Oracle NetSuite as an Agile Coach, I write and speak on a variety of topics, especially focused on my real-world experiences applying Agile Methodology.
+I'm a PM Institute Certified #Agile Practitioner with a focus centered on continuous improvement, lean change management, and training for large distributed product development.
+In addition to my work at Oracle NetSuite as an Agile Coach and member of the Oracle Women's Leadership organization, I write and speak on a variety of topics, especially focused on my real-world experiences applying Agile Methodology.
 
-Last Year I sat down with Yves Hanoulle at the Scrum Master Summit 2021 to discuss why Size Matters: Art of Getting Work Done with Smaller Teams.  The focus was on the trasnformation I enabled for a larger development team to achive scrum by desizing and focusing on core Agile principles.  I recounted the details in [Leveraging Small Teams to Scale Agility - a Red Hat Case Study](https://www.infoq.com/articles/leverage-small-teams-scale-agility/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=culture-methods).
+In the upcoming book, ["89 Hybrid Working Tips From Explorers"[(https://leanpub.com/89hybridtips)], I have written about Inclusive Hybrid Meetings.
+The book is being finished now and is coordinated by Yves Hanoulle and is available on Lean Pub.
+
+I believe in giving back to the community so I help organize or volunteer at conferences.
+In November 2022 I am part of the organizational team for [Women in Agile Europe](https://womeninagile.eu/organizers/dominika-bula/).
+At [Ace! Conference](https://aceconf.com) I designed all of the Miro Board content for the open spaces and the agenda, managed the LinkedIn Page for the conference, and created marketing materials.
+Before that I hosted the open space session at [Women in Agile Open](https://twitter.com/womenagileopen?s=11&t=qyVA_olV1jlUG8SST775CQ) in November 2021.
+
+In 2021, I sat down with Yves Hanoulle at the Scrum Master Summit 2021 to discuss why Size Matters: Art of Getting Work Done with Smaller Teams.
+The focus was on the trasnformation I enabled for a larger development team to achive scrum by desizing and focusing on core Agile principles.
+I recounted the details in [Leveraging Small Teams to Scale Agility - a Red Hat Case Study](https://www.infoq.com/articles/leverage-small-teams-scale-agility/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=culture-methods).
 
 See more of my work at:
 
