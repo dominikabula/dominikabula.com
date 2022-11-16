@@ -6,7 +6,7 @@ tagline = "Agile. Open. Leader."
 I'm a PM Institute Certified #Agile Practitioner with a focus centered on continuous improvement, lean change management, and training for large distributed product development.
 In addition to my work at Oracle NetSuite as an Agile Coach and member of the Oracle Women's Leadership organization, I write and speak on a variety of topics, especially focused on my real-world experiences applying Agile Methodology.
 
-In the upcoming book, ["89 Hybrid Working Tips From Explorers"[(https://leanpub.com/89hybridtips)], I have written about Inclusive Hybrid Meetings.
+In the upcoming book, ["89 Hybrid Working Tips From Explorers"](https://leanpub.com/89hybridtips), I have written about Inclusive Hybrid Meetings.
 The book is being finished now and is coordinated by Yves Hanoulle and is available on Lean Pub.
 
 I believe in giving back to the community so I help organize or volunteer at conferences.
