@@ -29,6 +29,8 @@ See more of my work at:
 
 [Follow me on Twitter @domibula](https://twitter.com/domibula)
 {{< rawhtml >}}
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79f00cde-b343-432f-9e1b-f54eb642d739" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="785b1192-66bd-4cff-9ec0-4862a22c3182" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9615eb42-ce2e-43a3-9b38-dae0bfb1734d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
